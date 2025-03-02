@@ -1,6 +1,0 @@
-Last Name: Camacho
-First Name: Valerie
-Age: 21
-Contact Number: 0999-999-9999
-Course: BSIT-BA
--------------------------
